@@ -1,17 +1,11 @@
 {
   "students": [
     {
-      "id": "1",
-      "firstName": "Aditya",
-      "lastName": "kumar",
-      "age": 16
-     
-    },
-     {
-      "id": "2",
-      "firstName": "Vikey",
-      "lastName": "Singh",
-      "age": 16
-     }
+      "name": "aryan",
+      "section": "f",
+      "email": "anuragkr123@gmail.com",
+      "enrollmentDate": "2025-11-20",
+      "id": "2"
+    }
   ]
 }
